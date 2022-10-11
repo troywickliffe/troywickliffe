@@ -1,6 +1,6 @@
 - 👋 Greetings! My name is Troy Wickliffe.
 - 👀 Aspiring Web Developer in the US! 
-- 🌱 HTML, CSS, JavaScript, Git.
+- 🌱 HTML, CSS, JavaScript, Git, Node.js, Bootstrap.
 - 📫 Email: troywick1@gmail.com
 
 <!---
