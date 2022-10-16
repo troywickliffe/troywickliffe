@@ -1,5 +1,5 @@
 - 👋 Greetings! My name is Troy Wickliffe.
-- 👀 Front End Developer. 
+- 👀 Aspiring Web Developer.
 - 🌱 HTML, CSS/Bootstrap, JavaScript, Git, Node.js.
 - 📫 Email: troywick1@gmail.com
 
