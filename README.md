@@ -1,6 +1,6 @@
-- 👋 Greetings! My name is Troy Wickliffe.
+# 👋 Greetings! My name is Troy Wickliffe.
 - 👀 Aspiring Web Developer.
-- 🌱 HTML, CSS/Bootstrap, JavaScript, Git.
+- 🌱 HTML, CSS, JavaScript, Bootstrap, jest, Git.
 - 📫 Email: troywick1@gmail.com
 
 <!---
